@@ -18,5 +18,7 @@
   "homepage": "https://github.com/PrabhjotSembhi/starter-express-api#readme",
   "dependencies": {
     "express": "^4.18.2"
+    "socket.io": "^4.7.2"
+
   }
 }
